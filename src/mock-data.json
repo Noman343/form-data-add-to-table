@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "fullName": "Jenny Chan",
+    "email": "jenny.chan@email.com",
+    "projectAttendence": "100%",
+    "careerReadiness": "Ready",
+    "attendence": "70%",
+    "bootcampCompletion": "",
+    "instructorRating":"",
+    "communicationInterview":"",
+    "englishPerformance":"",
+    "comments":"",
+    "performance":"",
+    "overAllGrading":""
+ 
+ 
+  },
+  {
+    "id": 2,
+    "fullName": "Jessica warren",
+    "email": "jessica.warren@email.com",
+    "projectAttendence": "100%",
+    "careerReadiness": "Ready",
+    "attendence": "70%",
+    "bootcampCompletion": "",
+    "instructorRating":"",
+    "communicationInterview":"",
+    "englishPerformance":"",
+    "comments":"",
+    "performance":"",
+    "overAllGrading":""
+ 
+ 
+  },
+  {
+    "id": 3,
+    "fullName": "Tony Frank",
+    "email": "tony.frank@email.com",
+    "projectAttendence": "100%",
+    "careerReadiness": "Ready",
+    "attendence": "70%",
+    "bootcampCompletion": "",
+    "instructorRating":"",
+    "communicationInterview":"",
+    "englishPerformance":"",
+    "comments":"",
+    "performance":"",
+    "overAllGrading":""
+ 
+ 
+  },
+  {
+    "id": 4,
+    "fullName": "Jeremy Clark",
+    "email": "jeremy.clark@email.com",
+    "projectAttendence": " 100%",
+    "careerReadiness": "Ready",
+   "attendence": "70%",
+    "bootcampCompletion": "",
+    "instructorRating":"",
+    "communicationInterview":"",
+    "englishPerformance":"",
+    "comments":"",
+    "performance":"",
+    "overAllGrading":""
+  
+ 
+  },
+  {
+    "id": 5,
+    "fullName": "Raymond Edwards",
+    "email": "raymon.edwards@email.com",
+    "projectAttendence": "100%",
+    "careerReadiness": "Ready",   
+     "attendence": "70%",    
+    "bootcampCompletion": "",
+    "instructorRating":"",
+    "communicationinterview":"",
+    "englishPerformance":"",
+    "comments":"",
+    "performance":"",
+    "overAllGrading":""
+
+  }
+]
